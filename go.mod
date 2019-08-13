@@ -1,4 +1,4 @@
-module github.com/jzhong39/beego
+module github.com/apollo-go/beego
 
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible // indirect
